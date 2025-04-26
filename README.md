@@ -2,33 +2,45 @@
 
 ### Projects
 
-[OrderList - api](https://github.com/Victor-codigo/OrderList-api)
-<br>OrderList api is an API REST created in PHP - Symfony, to manage your shopping lists.
-
-[OrderList - client](https://github.com/Victor-codigo/OrderList-client)
+🛍️ [OrderList - api](https://github.com/Victor-codigo/OrderList-api)
+  <br>OrderList api is an API REST to manage your shopping lists. [Learn more..](https://github.com/Victor-codigo/OrderList-api?tab=readme-ov-file#orderlist-api)
+  <br>
+  #### Tecnologies
+  
+  | [![PHP](https://img.icons8.com/?size=48&id=f0R4xVI4Sc8O&format=png&color=000000)](https://php.net) | [![Symfony](https://img.icons8.com/?size=48&id=78295&format=png&color=000000)](https://symfony.com) | [![MySql](https://img.icons8.com/?size=48&id=rgPSE6nAB766&format=png&color=000000)](https://www.mysql.com/) |  [![Docker](https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png&color=000000)](https://www.docker.com/) | ... |
+  |:--:|:--:|:--:|:--:|:--:|
+  | PHP | Symfony | MySQL | Docker | [And more](https://github.com/Victor-codigo/OrderList-api?tab=readme-ov-file#stack) |
+ 
+<br><br>🛍️ [OrderList - client](https://github.com/Victor-codigo/OrderList-client)
 <br>OrderList client it is PHP - Symfony client for OrderList-api.
+<br>
+#### Tecnologies
+  
+  | [![PHP](https://img.icons8.com/?size=48&id=f0R4xVI4Sc8O&format=png&color=000000)](https://php.net) | [![Symfony](https://img.icons8.com/?size=48&id=78295&format=png&color=000000)](https://symfony.com) | [![JavaScript](https://img.icons8.com/?size=48&id=108784&format=png&color=000000)](https://developer.mozilla.org/en/docs/Web/JavaScript) | [![HTML](https://img.icons8.com/?size=48&id=20909&format=png&color=000000)](https://developer.mozilla.org/en/docs/Web/HTML) | [![CSS](https://img.icons8.com/?size=48&id=21278&format=png&color=000000)](https://developer.mozilla.org/en/docs/Web/CSS) | [![SASS](https://img.icons8.com/?size=48&id=78Fr72VCwbPq&format=png&color=000000)](https://sass-lang.com/) | [![Bootstrap](https://img.icons8.com/?size=48&id=PndQWK6M1Hjo&format=png&color=000000)](https://getbootstrap.com/)  | [![MySql](https://img.icons8.com/?size=48&id=rgPSE6nAB766&format=png&color=000000)](https://www.mysql.com/) | [![Docker](https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png&color=000000)](https://www.docker.com/) | ... |
+  |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+  | PHP | Symfony | JavaScript | HTML 5 | CSS | Sass | Bootstrap | MySQL | Docker | [And more](https://github.com/Victor-codigo/OrderList-client?tab=readme-ov-file#stack) |
 
-[Recipes](https://github.com/Victor-codigo/Recipes)
+🧑‍🍳 [Recipes](https://github.com/Victor-codigo/Recipes)
 <br>A website to save, share, your recipes.
 
-[Template Manager](https://github.com/Victor-codigo/TemplateManager)
+💻 [Template Manager](https://github.com/Victor-codigo/TemplateManager)
 <br>Module that allows to manage templates in php.
 
-[Query builder](https://github.com/Victor-codigo/query-builder)
+💻 [Query builder](https://github.com/Victor-codigo/query-builder)
 <br>Module to create query a builder for MySQL.
 
-[Doctrine paginator](https://github.com/Victor-codigo/DoctrinePaginatorAdapter)
+💻 [Doctrine paginator](https://github.com/Victor-codigo/DoctrinePaginatorAdapter)
 <br>PHP classes for doctrine pagination.
 
-[Symfony form extended](https://github.com/Victor-codigo/SymfonyFormExtended)
+💻 [Symfony form extended](https://github.com/Victor-codigo/SymfonyFormExtended)
 <br>Classes to extend Symfony form functionality.
-Adds:
+<br>Adds:
   - Form messages translation
   - Add flash bag messages
   - Uploaded files handler
 
 
-[Upload file](https://github.com/Victor-codigo/UploadFile)
+💻 [Upload file](https://github.com/Victor-codigo/UploadFile)
 <br>Classes to manage file upload with symfony or package http-foundation.
 
 This package is in charge of Geting the file uploaded, and move it to a new path, with a secure name.
